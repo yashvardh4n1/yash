@@ -1,16 +1,16 @@
 import React, { useState } from 'react';
 import { AnimatePresence } from 'framer-motion';
-import IntroAnimation from './components/IntroAnimation';
-import CherryBlossoms from './components/CherryBlossoms';
-import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import About from './components/About';
-import Education from './components/Education';
-import Skills from './components/Skills';
-import Projects from './components/Projects';
-import Achievements from './components/Achievements';
-import Contact from './components/Contact';
-import Footer from './components/Footer';
+import IntroAnimation from './IntroAnimation';
+import CherryBlossoms from './CherryBlossoms';
+import Navbar from './/Navbar';
+import Hero from './Hero';
+import About from './About';
+import Education from './Education';
+import Skills from './Skills';
+import Projects from './Projects';
+import Achievements from './Achievements';
+import Contact from './Contact';
+import Footer from './Footer';
 
 export default function App() {
   // Check if user has already experienced the Bankai intro during this browsing session
